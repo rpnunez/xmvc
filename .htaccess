@@ -1,0 +1,2 @@
+# The document root should be set to the "public" directory.
+# This file is intentionally left without rewrite rules to encourage secure server configuration.
